@@ -118,7 +118,7 @@ WAIT|180
 DELAY|11
 TEXT|Maybe you'll find someone else
 TEXT|to help you.
-WAIT|230
+WAIT|200
 DELAY|10
 TEXT|Maybe Black Mesa...
 WAIT|160
