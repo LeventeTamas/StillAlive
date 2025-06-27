@@ -1,0 +1,179 @@
+### Page 1:
+
+DELAY|8
+TEXT|Forms FORM-29827281-12:
+TEXT|Test Assessment Report
+TEXT|
+TEXT|
+DELAY|6
+WAIT|370
+TEXT|This was a triumph.
+WAIT|250
+TEXT|I'm making a note here:
+WAIT|60
+DELAY|8
+TEXT|HUGE SUCCESS.
+WAIT|180
+DELAY|11
+TEXT|It's hard to overstate
+DELAY|13
+TEXT|my satisfaction.
+WAIT|240
+DELAY|8
+TEXT|Aperture Science
+WAIT|250
+DELAY|8
+TEXT|We do what we must
+DELAY|9
+TEXT|because we can.
+WAIT|200
+DELAY|10
+TEXT|For the good of all of us.
+WAIT|50
+DELAY|6
+TEXT|Except the ones who are dead.
+
+TEXT|
+WAIT|50
+DELAY|8
+TEXT|But there's no sense crying
+TEXT|over every mistake.
+WAIT|10
+TEXT|You just keep on trying
+TEXT|till you run out of cake.
+TEXT|And the Science gets done.
+TEXT|And you make a neat gun.
+DELAY|7
+TEXT|For the people who are
+TEXT|still alive.
+WAIT|100
+CLEAR|
+
+
+
+### Page 2:
+
+DELAY|6
+TEXT|Forms FORM-55551-5:
+TEXT|Personnel File Addendum:
+WAIT|60
+TEXT|
+TEXT|Dear <<Subject Name Here>>,
+TEXT|
+TEXT|I'm not even angry.
+WAIT|240
+DELAY|12
+TEXT|I'm being so sincere right now.
+WAIT|130
+DELAY|11
+TEXT|Even though you broke my heart.
+DELAY|10
+TEXT|And killed me.
+WAIT|180
+DELAY|7
+TEXT|And tore me to pieces.
+WAIT|220
+DELAY|9
+TEXT|And threw every piece into a fire.
+WAIT|220
+DELAY|9
+TEXT|As they burned it hurt because
+WAIT|60
+DELAY|6
+TEXT|I was so happy for you!
+WAIT|70
+DELAY|8
+TEXT|Now these points of data
+TEXT|make a beautiful line.
+
+DELAY|8
+TEXT|And we're out of beta.
+TEXT|We're releasing on time.
+TEXT|So I'm GLaD. I got burned.
+DELAY|7
+TEXT|Think of all the things we learned
+DELAY|6
+TEXT|for the people who are
+TEXT|still alive.
+WAIT|120
+CLEAR|
+
+
+### Page 3:
+
+DELAY|6
+TEXT|Forms FORM-55551-6:
+TEXT|Personnel File Addendum Addendum:
+WAIT|60
+TEXT|
+DELAY|10
+TEXT|One last thing:
+TEXT|
+DELAY|6
+TEXT|Go ahead and leave me.
+WAIT|200
+DELAY|10
+TEXT|I think I prefer to stay inside.
+WAIT|180
+DELAY|11
+TEXT|Maybe you'll find someone else
+TEXT|to help you.
+WAIT|230
+DELAY|10
+TEXT|Maybe Black Mesa...
+WAIT|160
+TEXT|THAT WAS A JOKE. HA HA. FAT CHANCE.
+WAIT|130
+DELAY|12
+TEXT|Anyway, this cake is great.
+DELAY|8
+TEXT|It's so delicious and moist.
+WAIT|20
+DELAY|7
+TEXT|Look at me still talking
+TEXT|when there's Science to do.
+WAIT|10
+TEXT|When I look out there,
+DELAY|8
+TEXT|it makes me GLaD I'm not you.
+TEXT|I've experiments to run.
+DELAY|6
+TEXT|There is research to be done.
+DELAY|8
+TEXT|On the people who are
+DELAY|9
+TEXT|still alive.
+WAIT|100
+CLEAR|
+
+### Page 4:
+
+TEXT|
+TEXT|
+TEXT|
+DELAY|7
+TEXT|PS: And believe me I am
+TEXT|still alive.
+WAIT|100
+TEXT|PPS: I'm doing Science and I'm
+TEXT|still alive.
+WAIT|40
+DELAY|8
+TEXT|PPPS: I feel FANTASTIC and I'm
+TEXT|still alive.
+TEXT|
+TEXT|FINAL THOUGHT:
+DELAY|6
+TEXT|While you're dying I'll be
+TEXT|still alive.
+TEXT|
+DELAY|7
+TEXT|FINAL THOUGHT PS:
+TEXT|And when you're dead I will be
+TEXT|still alive.
+WAIT|50
+TEXT|
+TEXT|
+TEXT|STILL ALIVE
+WAIT|110
+CLEAR|

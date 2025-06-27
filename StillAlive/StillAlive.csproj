@@ -109,6 +109,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="256x256.ico" />
+    <None Include="Resources\lyrics.txt" />
+    <None Include="Resources\credits.txt" />
+    <None Include="Resources\art.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

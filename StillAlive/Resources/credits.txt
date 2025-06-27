@@ -1,0 +1,304 @@
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+WAIT|730
+DELAY|6
+TEXT|>LIST PERSONNEL
+TEXT|
+TEXT|
+TEXT|
+TEXT|Gautam Babbar
+TEXT|Ted Backman
+TEXT|Kelly Bailey
+TEXT|Jeff Ballinger
+TEXT|Aaron Barber
+TEXT|Jeep Barnett
+TEXT|Jeremy Bennett
+TEXT|Dan Berger
+TEXT|Yahn Bernier
+TEXT|Ken Birdwell
+TEXT|Derrick Birum
+TEXT|Mike Blaszczak
+TEXT|Iestyn Bleasdale‑Shepherd
+TEXT|Chris Bokitch
+TEXT|Steve Bond
+TEXT|Matt Boone
+TEXT|Antoine Bourdon
+TEXT|Jamaal Bradley
+TEXT|Jason Brashill
+TEXT|Charlie Brown
+TEXT|Charlie Burgin
+TEXT|Andrew Burke
+TEXT|Augusta Butlin
+TEXT|Julie Caldwell
+TEXT|Dario Casali
+TEXT|Christopher Chin
+TEXT|Jess Cliffe
+TEXT|Phil Co
+TEXT|John Cook
+TEXT|Christen Coomer
+TEXT|Greg Coomer
+TEXT|Scott Dalton
+TEXT|Kerry Davis
+TEXT|Jason Deakins
+TEXT|Joe Demers
+TEXT|Ariel Diaz
+TEXT|Quintin Doroquez
+TEXT|Jim Dose
+TEXT|Chris Douglass
+TEXT|Laura Dubuk
+TEXT|Mike Dunkle
+TEXT|Mike Durand
+TEXT|Mike Dussault
+TEXT|Dhabih Eng
+TEXT|Katie Engel
+TEXT|Chet Faliszek
+TEXT|Adrian Finol
+TEXT|Bill Fletcher
+TEXT|Moby Francke
+TEXT|Stéphane Gaudette
+TEXT|Kathy Gehrig
+TEXT|Vitaliy Genkin
+TEXT|Paul Graham
+TEXT|Chris Green
+TEXT|Chris Grinstead
+TEXT|John Guthrie
+TEXT|Aaron Halifax
+TEXT|Reagan Halifax
+TEXT|Leslie Hall
+TEXT|Jeff Hameluck
+TEXT|Joe Han
+TEXT|Don Holden
+TEXT|Jason Holtman
+TEXT|Gray Horsfield
+TEXT|Keith Huggins
+TEXT|Jim Hughes
+TEXT|Jon Huisingh
+TEXT|Brian Jacobson
+TEXT|Lars Jensvold
+TEXT|Erik Johnson
+TEXT|Jakob Jungels
+TEXT|Rich Kaethler
+TEXT|Steve Kalning
+TEXT|Aaron Kearly
+TEXT|Iikka Keranen
+TEXT|David Kircher
+TEXT|Eric Kirchmer
+TEXT|Scott Klintworth
+TEXT|Alden Kroll
+TEXT|Marc Laidlaw
+TEXT|Jeff Lane
+TEXT|Tim Larkin
+TEXT|Dan LeFree
+TEXT|Isabelle LeMay
+TEXT|Tom Leonard
+TEXT|Jeff Lind
+TEXT|Doug Lombardi
+TEXT|Bianca Loomis
+TEXT|Richard Lord
+TEXT|Realm Lovejoy
+TEXT|Randy Lundeen
+TEXT|Scott Lynch
+TEXT|Ido Magal
+TEXT|Nick Maggiore
+TEXT|John McCaskey
+TEXT|Patrick McClard
+TEXT|Steve McClure
+TEXT|Hamish McKenzie
+TEXT|Gary McTaggart
+TEXT|Jason Mitchell
+TEXT|Mike Morasky
+TEXT|John Morello II
+TEXT|Bryn Moslow
+TEXT|Arsenio Navarro
+TEXT|Gabe Newell
+TEXT|Milton Ngan
+TEXT|Jake Nicholson
+TEXT|Martin Otten
+TEXT|Nick Papineau
+TEXT|Karen Prell
+TEXT|Bay Raitt
+TEXT|Tristan Reidford
+TEXT|Alfred Reynolds
+TEXT|Matt Rhoten
+TEXT|Garret Rickey
+TEXT|Dave Riller
+TEXT|Elan Ruskin
+TEXT|Matthew Russell
+TEXT|Jason Ruymen
+TEXT|David Sawyer
+TEXT|Marc Scaparro
+TEXT|Wade Schin
+TEXT|Matthew Scott
+TEXT|Aaron Seeler
+TEXT|Jennifer Seeley
+TEXT|Taylor Sherman
+TEXT|Eric Smith
+TEXT|Jeff Sorensen
+TEXT|David Speyrer
+TEXT|Jay Stelly
+TEXT|Jeremy Stone
+TEXT|Eric Strand
+TEXT|Kim Swift
+TEXT|Kelly Thornton
+TEXT|Eric Twelker
+TEXT|Carl Uhlman
+TEXT|Doug Valente
+TEXT|Bill Van Buren
+TEXT|Gabe Van Engel
+TEXT|Alex Vlachos
+TEXT|Robin Walker
+TEXT|Joshua Weier
+TEXT|Andrea Wicklund
+TEXT|Greg Winkler
+TEXT|Erik Wolpaw
+TEXT|Doug Wood
+TEXT|Matt T. Wood
+TEXT|Danika Wright
+TEXT|Matt Wright
+TEXT|Shawn Zabecki
+TEXT|Torsten Zabka
+WAIT|10
+TEXT|
+TEXT|
+TEXT|
+TEXT|
+TEXT|'Still Alive' by:
+TEXT|Jonathan Coulton
+WAIT|10
+TEXT|
+TEXT|
+TEXT|
+TEXT|Voices:
+TEXT|Ellen McLain – GLaDOS & Turrets
+TEXT|Mike Patton – THE ANGER SPHERE
+WAIT|5
+TEXT|
+WAIT|5
+TEXT|
+WAIT|5
+TEXT|
+WAIT|5
+TEXT|Voice Casting: 
+TEXT|Shana Landsburg\Teri Fiddleman
+WAIT|5
+TEXT|
+WAIT|5
+TEXT|
+WAIT|5
+TEXT|
+TEXT|Voice Recoding:
+TEXT|Pure Audio, Seattle, WA
+WAIT|5
+TEXT|
+WAIT|5
+TEXT|
+WAIT|5
+TEXT|
+TEXT|Voice recording
+TEXT|scheduling and logistics:
+TEXT|Pat Cockburn, Pure Audio
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+TEXT|Translation:
+TEXT|SDL
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|Crack Legal Team:
+TEXT|Liam Lavery
+TEXT|Karl Quackenbush
+TEXT|Kristen Boraas
+TEXT|Kevin Rosenfield
+TEXT|Alan Bruggeman
+TEXT|Dennis Tessier
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|Thanks for the use of their face:
+WAIT|40
+TEXT|Alesia Glidewel - Chell
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|Special thanks to everyone at:
+WAIT|5
+TEXT|Alienware
+WAIT|5
+TEXT|ATI
+WAIT|5
+TEXT|DELL
+WAIT|5
+TEXT|Falcon Northwest
+WAIT|5
+TEXT|Havok
+WAIT|5
+TEXT|SOFTIMAGE
+WAIT|5
+TEXT|and Don Kemmis, SLK Technolohies
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|THANK YOU FOR PARTICIPATING
+WAIT|5
+TEXT|IN THIS
+WAIT|5
+TEXT|ENRICHMENT CENTER ACTIVITY!!
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|
+WAIT|40
+TEXT|

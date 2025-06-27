@@ -73,7 +73,7 @@ namespace StillAlive.Properties {
         ///ASCII_ART|Aperture
         ///WAIT|1950
         ///ASCII_ART|Heart
-        ///WAIT|460
+        ///WAIT|430
         ///ASCII_ART|Explosion
         ///WAIT|650
         ///ASCII_ART|Fire
